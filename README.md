@@ -41,14 +41,12 @@ Solved 650+ DSA problems on LeetCode and 1200+ problems across various platforms
 
 ## 📚 Projects Repository
 
-- [Creativo - AI Creative Studio](#creativo---ai-creative-studio)  
-- [VoyageGenius - AI Travel Planner](#voyagegenius---ai-travel-planner)  
-- [Chatly - Real-Time Chat Application](#chatly---real-time-chat-application)  
-- [Multidisease Prediction](#multidisease-prediction)
-- [WeatherWise - Weather Dashboard](#weatherwise---weather-dashboard)
-- [MyPortfolio - Personal Portfolio Website](#myportfolio---personal-portfolio-website)
-- [Chatly-Chat-App](#chatly-chat-app)
-- [Next-Gen AI Creative Suite](#next-gen-ai-creative-suite)
+- [Creativo - AI Creative Studio ➤](https://github.com/PrashantKumarD/new-saas-app) 
+- [VoyageGenius - AI Travel Planner ➤](https://github.com/PrashantKumarD/travelPlanner)  
+- [Chatly - Real-Time Chat Application ➤](https://github.com/PrashantKumarD/chatly-chat-app)  
+- [Multidisease Prediction ➤](https://github.com/PrashantKumarD/Multidisease_prediction)
+- [WeatherWise - Weather Dashboard ➤](https://github.com/PrashantKumarD/weather-app)
+- [MyPortfolio - Personal Portfolio Website ➤](https://github.com/PrashantKumarD/MyPortfolio)
 
 ---
 
