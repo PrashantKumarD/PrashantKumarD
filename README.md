@@ -115,7 +115,7 @@ A secure, real-time chat application supporting both individual and group chats.
 
 ---
 
-### Next-Gen AI Creative Suite
+### Creativo - AI Creative Studio
 Next-Generation AI Creative Suite to generate articles, blog titles, AI images, remove backgrounds/objects, and review resumes with powerful AI tools. Built with React, Node.js, OpenAI, and a modern tech stack.
 - **Tech Stack:** React.js, Node.js, OpenAI, JavaScript  
 - **Live:** [AI Creative Suite](https://new-saas-app-client.vercel.app)  
