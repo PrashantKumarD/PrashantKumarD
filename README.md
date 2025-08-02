@@ -123,7 +123,7 @@ Next-Generation AI Creative Suite to generate articles, blog titles, AI images, 
 
 ## 🤝 Let's Connect
 
-- **LinkedIn:** [Profile](https://www.linkedin.com/in/prashant-kumar-dwebedi)  
+- **LinkedIn:** [Profile](https://www.linkedin.com/in/prashant-kumar-dwivedi-aa774b275)  
 - **GitHub:** [Profile](https://github.com/PrashantKumarD)  
 - **Email:** kumarprashant6080@gmail.com | prashantdwebedi98@gmail.com
 
