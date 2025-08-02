@@ -1,4 +1,4 @@
-c# Hi there, I'm Prashant Kumar Dwebedi! 👋
+# Hi there, I'm Prashant Kumar Dwebedi! 👋
 
 Welcome to my GitHub profile! I'm a passionate full-stack developer and a student currently pursuing a B.Tech in Electronics and Communication Engineering at Maulana Azad National Institute of Technology, Bhopal.  
 Here's a bit about me and what I love working on:
