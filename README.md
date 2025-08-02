@@ -1,4 +1,4 @@
-# Hi there, I'm Prashant Kumar Dwebedi! 👋
+c# Hi there, I'm Prashant Kumar Dwebedi! 👋
 
 Welcome to my GitHub profile! I'm a passionate full-stack developer and a student currently pursuing a B.Tech in Electronics and Communication Engineering at Maulana Azad National Institute of Technology, Bhopal.  
 Here's a bit about me and what I love working on:
@@ -54,7 +54,7 @@ Solved 650+ DSA problems on LeetCode and 1200+ problems across various platforms
 
 ## 🌟 Project Highlights
 
-### Creativo - AI Creative Studio | Full-Stack SaaS Platform
+### 🎨 Creativo - AI Creative Studio | Full-Stack SaaS Platform
 An AI-driven creative platform to generate images, articles, blog titles, review resumes, remove backgrounds, and publish content with a social engagement community.
 
 - **Tech Stack:** JavaScript, React.js, Node.js, Express.js, Neon PostgreSQL, Clerk Auth, AI-APIs.
@@ -64,7 +64,7 @@ An AI-driven creative platform to generate images, articles, blog titles, review
 
 ---
 
-### VoyageGenius - AI Travel Planner | Full-Stack Web App
+### ✈️ VoyageGenius - AI Travel Planner | Full-Stack Web App
 An AI-powered travel planner that generates personalized itineraries, hotel listings, and a smart trip dashboard with real-time sync.
 
 - **Tech Stack:** JavaScript, React.js, Node.js, Firebase, Gemini AI, Google APIs.
@@ -74,7 +74,7 @@ An AI-powered travel planner that generates personalized itineraries, hotel list
 
 ---
 
-### Chatly - Real-Time Chat Application | Full-Stack MERN Platform
+### 👋 Chatly - Real-Time Chat Application | Full-Stack MERN Platform
 A real-time messaging platform for secure individual and group chat with instant message delivery and typing indicators.
 
 - **Tech Stack:** JavaScript, React.js, Node.js, Express.js, MongoDB, Socket.IO, JWT Auth.
@@ -84,7 +84,7 @@ A real-time messaging platform for secure individual and group chat with instant
 
 ---
 
-### Multidisease Prediction
+### ❤️ Multidisease Prediction
 A user-friendly web application built with Streamlit that empowers users to quickly assess their risk for multiple diseases by inputting basic health data. Leveraging machine learning models, the app provides instant predictions, making preliminary health screening accessible and interactive for everyone.
 - **Tech Stack:** Streamlit, Machine Learning Models, Python, Jupyter Notebook  
 - **Live:** [Multidisease Prediction App](https://multidiseaseprediction-25akgrnjzbuwzedi63rziw.streamlit.app)  
@@ -92,7 +92,7 @@ A user-friendly web application built with Streamlit that empowers users to quic
 
 ---
 
-### WeatherWise - Weather Dashboard
+### 🌡️ WeatherWise - Weather Dashboard
 A modern, interactive weather dashboard that provides real-time weather data and forecasts through an intuitive web interface. Built with vanilla JavaScript and integrated with OpenWeatherMap API, it features interactive maps, detailed analytics, and responsive design for seamless weather monitoring across all devices.
 - **Tech Stack:** JavaScript, OpenWeatherMap API  
 - **Live:** [WeatherWise](https://weather-app-rosy-phi-99.vercel.app)  
@@ -100,7 +100,7 @@ A modern, interactive weather dashboard that provides real-time weather data and
 
 ---
 
-### MyPortfolio - Personal Portfolio Website
+### 🧍 MyPortfolio - Personal Portfolio Website
 A modern, responsive personal portfolio website developed using JavaScript, Styled Components, and Framer Motion for smooth animations. The contact form functionality is powered by EmailJS, and the site is deployed on Vercel. This portfolio is designed to showcase projects, skills, and experience.
 - **Tech Stack:** JavaScript, Styled Components, Framer Motion, EmailJS  
 - **Live:** [MyPortfolio](https://my-portfolio-eta-nine-32.vercel.app)  
