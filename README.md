@@ -71,6 +71,13 @@ An AI-powered travel planner that generates personalized itineraries, hotel list
 - Implemented a "My Trips" dashboard with dynamic routing, toast feedback, and full CRUD operations for managing trips.
 
 ---
+### 🎧 RhythmSync - Real-Time Audio Synchronization Platform
+Next-Generation real-time audio streaming platform that enables multiple users to listen to music together in perfect sync with instant chat functionality and seamless room management. Built with React, Node.js, Socket.IO, and modern web technologies.
+- **Tech Stack:** React.js, Node.js, Socket.IO, MongoDB, Cloudinary  
+- **Live:** [RhythmSync Platform](https://audiosync-frontend.vercel.app)  
+- **Repo:** [GitHub](https://github.com/PrashantKumarD/audiosync)
+
+---
 
 ### 👋 Chatly - Real-Time Chat Application | Full-Stack MERN Platform
 A real-time messaging platform for secure individual and group chat with instant message delivery and typing indicators.
