@@ -40,7 +40,7 @@ Solved 650+ DSA problems on LeetCode and 1200+ problems across various platforms
 ---
 
 ## 📚 Projects Repository
-
+- [ RhythmSync - Real-Time Audio Synchronization Platform ➤](https://github.com/PrashantKumarD/audiosync) 
 - [Creativo - AI Creative Studio ➤](https://github.com/PrashantKumarD/new-saas-app) 
 - [VoyageGenius - AI Travel Planner ➤](https://github.com/PrashantKumarD/travelPlanner)  
 - [Chatly - Real-Time Chat Application ➤](https://github.com/PrashantKumarD/chatly-chat-app)  
