@@ -26,7 +26,7 @@ Postman, Vercel, Render, GitHub, Jupyter Notebook, Intellij IDEA, VS Code
 DSA, OOPS, Database Management System, Computer Network, Operating System
 
 **Coding Enthusiast:**  
-Solved 650+ DSA problems on LeetCode and 1200+ problems across various platforms.
+Solved 700+ DSA problems on LeetCode and 1200+ problems across various platforms.
 
 ---
 
